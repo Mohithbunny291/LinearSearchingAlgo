@@ -10,6 +10,7 @@ namespace LinearSearchingAlgo
     {
         public bool LinearSearchAlgo(int[] arr, int n)
         {
+            // Added to GitHub Web
             Console.WriteLine("Linear Search");
             for (int i = 0; i < arr.Length; i++)
             {
